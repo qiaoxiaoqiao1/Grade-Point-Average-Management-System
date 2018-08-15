@@ -1,0 +1,7 @@
+Course   Numbers of site   Numbers of student01  Numbers of studnet02   Numbers of student03       Numbers of assignment   Numbers of project    Numbers of exam
+CS401         3                    10                     5                     5                            12                      1                 2
+CS402         3                    13                     2                     2                            8                       1                 2
+CS530         3                    7                      4                     7                            10                      1                 2
+CS430         3                    11                     7                     4                            11                      1                 2
+MATH574       3                    12                     4                     2                            9                       1                 2
+MATH563       3                    14                     3                     6                            7                       1                 2
